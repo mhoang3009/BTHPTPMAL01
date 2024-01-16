@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\bin\Debug\net8.0\hehehe.exe
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\bin\Debug\net8.0\hehehe.deps.json
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\bin\Debug\net8.0\hehehe.runtimeconfig.json
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\bin\Debug\net8.0\hehehe.dll
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\bin\Debug\net8.0\hehehe.pdb
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\obj\Debug\net8.0\hehehe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\obj\Debug\net8.0\hehehe.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\obj\Debug\net8.0\hehehe.AssemblyInfo.cs
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\obj\Debug\net8.0\hehehe.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\obj\Debug\net8.0\hehehe.sourcelink.json
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\obj\Debug\net8.0\hehehe.dll
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\obj\Debug\net8.0\refint\hehehe.dll
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\obj\Debug\net8.0\hehehe.pdb
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\obj\Debug\net8.0\hehehe.genruntimeconfig.cache
+C:\Users\PC\OneDrive - Hanoi University of Mining and Geology\ptpmql\hehehe\obj\Debug\net8.0\ref\hehehe.dll
