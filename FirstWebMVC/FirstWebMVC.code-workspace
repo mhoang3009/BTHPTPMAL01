@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../NewApp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FirstWebMVC"
+	}
+}
