@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<head>First web</head>
+<head> My first web</head>
 <title>Phát triển phần mềm quản lý</title>
 </head>
 <body>
@@ -121,19 +121,13 @@ As the world's leading conservation organization, WWF works in nearly 100 countr
 
 <p>The HTML address element defines contact information (author/owner) of a document or article.</p>
 
-<address>
-Written by mhoang3009.<br> 
-Visit us at:<br>
-https://www.facebook.com/minhhoennn/<br>
-68 cau noi.<br>
-USA
-</address>
+
 
 <p>The HTML cite element defines the title of a work.</p>
 <p>Browsers usually display cite elements in italic.</p>
 
-<img src="img_the_scream.jpg" width="220" height="277" alt="The Scream">
-<p><cite>The Scream</cite> by Edvard Munch. Painted in 1893.</p>
+<img src="z5107772439432_29c455f7b1237c03884f21e68650005f.jpg" >
+<p><cite>The Sunshine in Doc Lap Street</cite> by mhoang3009 <p></p> Photo in 2023.</p>
 
 <p>If your browser supports bi-directional override (bdo), the next line will be written from right to left (rtl):</p>
 
@@ -191,11 +185,48 @@ p    {color: red;}
 </html>
 
 
-<video width="320" height="240" autoplay >
+<video width="320" height="240" autoplay muted >
     <source src="pentakill.mp4" type="video/mp4">
     <source src="pentakill.ogg" type="video/ogg">
     Your browser does not support the video tag.
   </video>
 
+  <div style="text-align:center"> 
+    <button onclick="playPause()">Play/Pause</button> 
+    <button onclick="makeBig()">Big</button>
+    <button onclick="makeSmall()">Small</button>
+    <button onclick="makeNormal()">Normal</button>
+    <br><br>
+    <video id="video1" width="420">
+      <source src="pentakill.mp4" type="video/mp4">
+      <source src="pentakill.ogg" type="video/ogg">
+      Your browser does not support HTML video.
+    </video>
+  </div> 
+  
+  <script> 
+  var myVideo = document.getElementById("video1"); 
+  
+  function playPause() { 
+    if (myVideo.paused) 
+      myVideo.play(); 
+    else 
+      myVideo.pause(); 
+  } 
+  
+  function makeBig() { 
+      myVideo.width = 560; 
+  } 
+  
+  function makeSmall() { 
+      myVideo.width = 320; 
+  } 
+  
+  function makeNormal() { 
+      myVideo.width = 420; 
+  } 
+  </script> 
+  
+  <p>Video courtesy of <a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.</p>
 </body>
 </html>
